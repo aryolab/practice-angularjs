@@ -1,2 +1,4 @@
 # practice-angularjs
-# practice-angularjs
+directive
+service
+route
